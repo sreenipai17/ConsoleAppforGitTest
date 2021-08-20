@@ -14,7 +14,7 @@ namespace ConsoleAppforGitTest
             a = Int32.Parse(Console.ReadLine());
             b = Int32.Parse(Console.ReadLine());
             c = (a + b);
-            Console.WriteLine($"{c}");
+            Console.WriteLine($"Changed the pgm{c}");
         }
     }
 }
